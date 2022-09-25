@@ -2,4 +2,4 @@
 HTML CSS Design
 
 
-# [vist the page ](https://pages.github.com/).
+# [click here](https://titotarek.github.io/html_css_alzero/).
